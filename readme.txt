@@ -1,0 +1,1 @@
+Run through command: java -jar ClipboardScope_jar.jar [apk_path] android.jar
