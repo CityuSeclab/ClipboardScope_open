@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="org"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/soot"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/heros"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jasmin"/>
+	<classpathentry kind="lib" path="libs/apktool-lib_fat.jar"/>
+	<classpathentry kind="lib" path="libs/javatuples-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/json-20151123.jar"/>
+	<classpathentry kind="lib" path="libs/xmlpull-1.1.3.1.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/soot-infoflow"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/soot-infoflow-android"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
